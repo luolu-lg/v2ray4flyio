@@ -20,6 +20,7 @@
 * 传输协议（network） - ws
 * 底层传输安全（tls) - tls
 
+
 ```json
 {
   "inbounds": [],
